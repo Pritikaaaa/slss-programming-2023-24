@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14c39fe63d4b0c1e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "63754068339eccda",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,6 +128,16 @@
                 "file": "Markdown (Re)Introduction.md"
               }
             }
+          },
+          {
+            "id": "82d613eb2dc13769",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -156,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8eb23d2e07715aec",
+  "active": "63754068339eccda",
   "lastOpenFiles": [
     "Markdown (Re)Introduction.md"
   ]
