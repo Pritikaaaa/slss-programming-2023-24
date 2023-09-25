@@ -2,9 +2,16 @@
 # Name: Pritika
 # Date: 20 September 2023
 
+import random
+import time
+
 # greet the user 
 print("Hello there! 🤗")
+
+# Pause for 1.5 seconds
+time.sleep(1.5)
 print("I'm a crude chatbot, here to talk to you")
+time.sleep(1.5)
 
 # greet the user's anme and store it in a variable
 user_name = input("So... what's your name?")
@@ -23,8 +30,10 @@ list_of_food_response = [
     "I heard that's delicious!!!",
     "omgg cool!!"
     ]
+
+print(list_of_food_response[2])
+
 # Choose one of those respones randomly
-import random 
 random_food_response = random.choice(list_of_food_response)
 
 # Print out that chosen response

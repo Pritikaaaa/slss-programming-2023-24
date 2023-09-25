@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strings.md",
+                "file": "Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strings.md",
+                "file": "Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strings.md",
+                "file": "Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strings.md"
+                "file": "Modules.md"
               }
             }
           },
@@ -159,9 +159,11 @@
   },
   "active": "63754068339eccda",
   "lastOpenFiles": [
-    "Design.md",
     "Natural Language Processing.md",
+    "Modules.md",
+    "LISTS.md",
     "Strings.md",
+    "Design.md",
     "Headers.md",
     "Markdown (Re)Introduction.md"
   ]
