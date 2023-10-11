@@ -31,7 +31,7 @@ pyramid = ["*", "**", "***", "****", "*****", "******"]
 for row in pyramid:
     print(row)
 
-# countdown for new year
+# countdown for new year.
 countdown = ["10", "9", "8", "7", "6", "5", "4", "3", "2", "1", "Happy new year!"]
 
 for numbers in countdown:
