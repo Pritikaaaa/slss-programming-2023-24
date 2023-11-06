@@ -1,4 +1,4 @@
-# Olympic Judging
+# McDolands
 # Author: Pritika Vats
 # Date: Nov 6, 2023
 
