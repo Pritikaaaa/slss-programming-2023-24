@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f529698aa5be787a",
+            "id": "af6f56e9650c307d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iteration.md",
+                "file": "Recommendation Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbad12d30d1b0a60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cf4f44ae40d7d5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Type.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iteration.md",
+                "file": "Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iteration.md",
+                "file": "Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +140,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iteration.md"
+                "file": "Functions.md"
               }
             }
           },
@@ -139,7 +164,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -156,20 +182,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f529698aa5be787a",
+  "active": "cbad12d30d1b0a60",
   "lastOpenFiles": [
+    "Recommendation Systems.md",
+    "Functions.md",
+    "Functions",
     "Errors.md",
-    "Iteration.md",
-    "Untitled.canvas",
-    "2023-10-04.md",
-    "Conditionals.md",
-    "Boolean.md",
-    "Strings.md",
-    "Markdown (Re)Introduction.md",
     "Design.md",
-    "Headers.md",
-    "LISTS.md",
+    "Conditionals.md",
+    "Type.md",
+    "Strings.md",
+    "Numbers.md",
+    "Natural Language Processing.md",
     "Modules.md",
-    "Natural Language Processing.md"
+    "Markdown (Re)Introduction.md",
+    "LISTS.md",
+    "Iteration.md",
+    "Headers.md",
+    "Boolean.md",
+    "data.csv",
+    "Untitled.canvas",
+    "2023-10-04.md"
   ]
 }

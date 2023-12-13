@@ -25,7 +25,7 @@ this is a comment
 ```
 
 # Input
-We grab information fro, the user using 
+We grab information for the user using 
 when we run the function, it does two things:
 1. It waits for the user to write something or nothing
 2. the user presses enter to indicate they are finished

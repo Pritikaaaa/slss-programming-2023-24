@@ -2,7 +2,7 @@ Modules are bits of code that we can use in python
 These bits of code aren't automatically included so,
 we need to `import` them into our code
 
-# Import
+# `Import`
 The import keyword loads the module into our file
 import should be at the top of the file under the header
 
